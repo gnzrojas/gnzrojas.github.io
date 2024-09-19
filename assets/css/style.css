@@ -8,7 +8,7 @@ body {
 }
 
 .img-perfil {
-    width: 450px;
+    width: 500px;
     height: 400px;
     margin-right: 50px;
 }
@@ -18,3 +18,14 @@ body {
     height: 300px;
     object-fit: cover;
   }
+
+.career {
+    width: 80%;
+ 
+}
+
+.career-logo {
+    width: 50%;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
